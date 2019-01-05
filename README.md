@@ -37,4 +37,4 @@ The custom dataset attached is a YouTube Trending / Non-Trending dataset. Input 
 The YouTube API was used to generate the data required for the dataset. The scripts written to generate the dataset can be found in the 'youtube-dataset-misc-files' folder.
 
 ## Credits
-The YouTube dataset was created with the help of Jonathan Mathai and Richu Jacob.
+The YouTube Trending / Non-Trending dataset was created with the help of Jonathan Mathai and Richu Jacob.
