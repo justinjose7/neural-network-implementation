@@ -8,7 +8,7 @@ Implementation involves an input layer, a single hidden layer, and an output lay
 ```
 python3 main.py
 ```
-Then enter 0 or 1 after program begins to select either training or testing program.
+Then enter 0 or 1 after program begins to select either the training or testing program.
 
 When your neural network training program is executed, it should prompt the user for the names of three text files representing the initial neural network, a training set, and an output file; one positive integer representing the number of epochs; and one floating-point value representing the learning rate. The first text file should contain the representation of the neural network before training (i.e., it will specify the size of each layer and the initial weights of the network). 
 
